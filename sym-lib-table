@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "hummingbird")(type "Legacy")(uri "C:/Users/danie/wesley_projects/kites/hummingbird/symbols.lib")(options "")(descr "")(disabled))
+  (lib (name "hummingbird-cache")(type "Legacy")(uri "C:/Users/danie/wesley_projects/kites/hummingbird/hummingbird-cache.lib")(options "")(descr ""))
+)
